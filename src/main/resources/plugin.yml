@@ -1,0 +1,7 @@
+main: me.raxel.blockhitfix.BlockhitFix
+author: Raxel
+version: 1.0
+name: BlockhitFix
+description: Bukkit 1.8.8 plugin that aims to fix the blockhit glitch caused players open inventories while blocking.
+commands:
+  nocommands:
