@@ -6,8 +6,7 @@
     <artifactId>blockhit-fix</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>Blockhit Fix</name>
-    <description>Bukkit 1.8.8 plugin that aims to fix the blockhit glitch caused when a user opens an inventory while
-        blocking.
+    <description>Bukkit 1.8.8 plugin that aims to fix the blockhit glitch, caused when a player opens an inventory while blocking.
     </description>
 
     <repositories>
